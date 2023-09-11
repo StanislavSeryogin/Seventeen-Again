@@ -1,6 +1,6 @@
 # Seventeen-Again
 
-### Xcode 15(beta) & IOS 17 & SwiftUI 5.9 😊
+### Xcode 15(beta) & IOS 17 & SwiftUI 5 😊
 
 #
 
